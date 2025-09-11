@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://localhost:8443/bin/franklin.delivery/prator12-sudo/ap2-ue-tutorial/main"
+    url: "https://author-p120465-e1171116.adobeaemcloud.com/bin/franklin.delivery/prator12-sudo/ap2-ue-tutorial/main"
     type: "markup"
     suffix: ".html"
